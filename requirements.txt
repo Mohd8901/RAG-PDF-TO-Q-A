@@ -1,5 +1,5 @@
-streamlit==1.25.0
-transformers==4.33.2
-emoji==2.8.0
-torch==2.1.0
-sentencepiece==0.1.99
+streamlit==1.27.0          # Compatible with Python 3.12
+transformers==4.35.2       # Compatible with Python 3.12
+emoji==2.8.0               # Compatible with Python 3.12
+torch==2.1.0               # Likely compatible; leave as is
+sentencepiece==0.1.99      # Leave as is; no known issues
